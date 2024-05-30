@@ -1,0 +1,19 @@
+body {
+	background-color: powderblue;
+	background-image: ;
+}
+
+h1 {
+	color: white;
+	background-color: black;
+	border: dashed white;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+#poem {
+	text-align: left;
+}
